@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vbg"
+    android:orientation="vertical"
+    tools:context=".game2">
+
+    <Button
+        android:id="@+id/t1"
+        android:layout_width="396dp"
+        android:layout_height="112dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:background="@color/teal_200"
+        android:text="tournament 1" />
+
+    <Button
+        android:id="@+id/t2"
+        android:layout_width="396dp"
+        android:layout_height="112dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="12dp"
+        android:background="@color/teal_200"
+        android:text="tournament 2" />
+    <Button
+        android:id="@+id/t3"
+        android:layout_width="396dp"
+        android:layout_height="112dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="12dp"
+        android:background="@color/teal_200"
+        android:text="tournament 3" />
+    <Button
+        android:id="@+id/t4"
+        android:layout_width="396dp"
+        android:layout_height="112dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="12dp"
+        android:background="@color/teal_200"
+        android:text="tournament 4" />
+
+
+
+</LinearLayout>

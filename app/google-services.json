@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704721645024",
+    "project_id": "e-sports-manager-ef3ac",
+    "storage_bucket": "e-sports-manager-ef3ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704721645024:android:2f00fb6d58a4a63a438f85",
+        "android_client_info": {
+          "package_name": "com.example.esportsmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704721645024-ouhg8m1ss7rb1h6svdib7icdudp4laev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esportsmanager",
+            "certificate_hash": "8fe1212d4b57d9f240ae8fa9e9240e5f5cf3d2b6"
+          }
+        },
+        {
+          "client_id": "704721645024-poqbq25flj05fkaum2qn6k7edf9pjf2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfEsrXHdF-9I3Fn6iqDExFrOhi_RmGOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704721645024-poqbq25flj05fkaum2qn6k7edf9pjf2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

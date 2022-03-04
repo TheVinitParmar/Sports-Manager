@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/vbg"
+    android:padding="5dp"
+    tools:context=".game1">
+    <ImageView
+        android:id="@+id/baarr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:background="@drawable/backarrow"
+        android:backgroundTint="@color/white" />
+
+
+    <ImageView
+        android:layout_width="321dp"
+        android:layout_height="170dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/vv2" />
+
+    <Button
+        android:id="@+id/turnament"
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="turnament 1" />
+
+    <Button
+        android:id="@+id/tournament2"
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="turnament 2" />
+
+    <Button
+        android:id="@+id/tour3"
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="turnament 3" />
+
+
+    <Button
+        android:id="@+id/tour4"
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:text="turnament 4" />
+
+
+
+</LinearLayout>
